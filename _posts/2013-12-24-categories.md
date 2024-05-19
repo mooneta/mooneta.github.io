@@ -1,10 +1,7 @@
 ---
-title: Categories
-date: 2013-12-24 23:30:09
+title: Notes on Readings in Chalmers’ Philosophy of Mind Anthology
+date: 2024-5-19 13:44:00
 categories:
-- Foo
-- Bar
-- Baz
+- philosophy of mind
+- readings
 ---
-
-This post contains 3 categories. Make sure your theme can display all of the categories.
