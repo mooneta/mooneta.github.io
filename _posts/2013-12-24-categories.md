@@ -9,6 +9,8 @@ categories:
 Summaries and responses to readings in David Chalmers’ anthology
 *Philosophy of Mind: Classical and Contemporary Readings*.
 
+<!--more-->
+
 1. *Meditations on First Philosophy* (II & VI), René Descartes
 
    Everything can be doubted—an omnipotent being might be manipulating my senses
