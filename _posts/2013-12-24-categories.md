@@ -5,9 +5,15 @@ categories:
 - philosophy of mind
 - readings
 ---
+
+Summaries and responses to readings in David Chalmers’ anthology
+*Philosophy of Mind: Classical and Contemporary Readings*.
+
 1. *Meditations on First Philosophy* (II & VI), René Descartes
+
    Everything can be doubted—an omnipotent being might be manipulating my senses
    —except my being, since I who make this statement must exist.
+
 2. *Passions of the Soul* (excerpt), René Descartes
 3. “On the Hypothesis That Animals Are Automata, and Its History” (excerpt),
    Thomas H. Huxley
