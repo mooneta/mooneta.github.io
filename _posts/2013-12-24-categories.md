@@ -38,6 +38,14 @@ to become familiar with the field, and this post will serve as a log.
    as though they are still miserable.
 
 5. “Descartes’ Myth,” Gilbert Ryle
+
+   Ryle describes the view, following Descartes, that the mind is “a ghost in
+   the machine,” a fundamentally different kind of substance from the body, and
+   the inconveniences that ensue. There would be no evidence for the existence
+   of other minds and for how we describe other people’s mental processes. He
+   thinks dualism rests on a category mistake that assumes that the mind is an
+   entity similar in sort to physical entities.
+
 6. “Psychology in Physical Language,” Rudolf Carnap
 7. “Brains and Behavior,” Hilary Putnam
 8. “Is Consciousness a Brain Process?” U. T. Place
