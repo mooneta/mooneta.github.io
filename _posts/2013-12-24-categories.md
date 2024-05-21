@@ -39,12 +39,12 @@ to become familiar with the field, and this post will serve as a log.
 
 5. “Descartes’ Myth,” Gilbert Ryle
 
-   Ryle describes the view, following Descartes, that the mind is “a ghost in
-   the machine,” a fundamentally different kind of substance from the body, and
-   the inconveniences that ensue. There would be no evidence for the existence
-   of other minds and for how we describe other people’s mental processes. He
-   thinks dualism rests on a category mistake that assumes that the mind is an
-   entity similar in sort to physical entities.
+   Ryle describes the view, following Descartes, that the mind is a
+   fundamentally different kind of substance from the body, a “ghost in the
+   machine,” and the inconveniences that ensue. There would be no evidence for
+   the existence of other minds and for how we describe other people’s mental
+   processes. He thinks dualism rests on a category mistake that assumes that
+   the mind is an entity similar in sort to physical entities.
 
 6. “Psychology in Physical Language,” Rudolf Carnap
 7. “Brains and Behavior,” Hilary Putnam
@@ -61,3 +61,13 @@ to become familiar with the field, and this post will serve as a log.
    have neutral implications for metaphysics by adding a phrase like “there is
    something going on which is like what is going on when” when describing
    conscious experience.
+
+10. “The ‘Mental’ and the ‘Physical,’” Herbert Feigl
+
+    Feigl puts forward identity theory as the thesis that mental concepts can
+    be described by both introspection and neurophysiology. The qualia of
+    experience, however, is left open by configurations in neurophysiology. The
+    subjective–intersubjective divide in investigating consciousness can be
+    overcome by letting the subject use language to express their experiences.
+    I have direct knowledge of my own immediate experience, but I only have
+    knowledge of the experiences of others by inference.
