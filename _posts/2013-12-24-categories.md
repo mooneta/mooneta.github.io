@@ -68,6 +68,8 @@ to become familiar with the field, and this post will serve as a log.
     be described by both introspection and neurophysiology. The qualia of
     experience, however, is left open by configurations in neurophysiology. The
     subjective–intersubjective divide in investigating consciousness can be
-    overcome by letting the subject use language to express their experiences.
+    overcome by letting the subject use language to express their experiences;
     I have direct knowledge of my own immediate experience, but I only have
-    knowledge of the experiences of others by inference.
+    knowledge of the experiences of others by laws of inference.
+
+11. “The Nature of Mental States,” Hilary Putnam
