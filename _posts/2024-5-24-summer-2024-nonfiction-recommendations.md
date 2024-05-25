@@ -1,5 +1,5 @@
 ---
-title: Summer 2024 Book (Nonfiction) Recommendations
+title: Summer 2024 Book Recommendations
 date: 2024-5-19 13:44:00
 categories:
 - books
@@ -9,7 +9,7 @@ tags:
 
 <!--more-->
 
-*How Life Works: A User’s Guide to the New Biology*
+### *How Life Works: A User’s Guide to the New Biology*
 
 by Philip Ball
 
