@@ -11,8 +11,6 @@ tags:
 
 ### *How Life Works: A User’s Guide to the New Biology*
 
-by Philip Ball
+by Philip Ball (University of Chicago Press, 2023)
 
-University of Chicago Press, 2023
-
-<img src="https://tmm.chicagodistributioncenter.com/IsbnImages/9780226826684.jpg" width="200" height="100">
+<img src="https://tmm.chicagodistributioncenter.com/IsbnImages/9780226826684.jpg" height="50">
