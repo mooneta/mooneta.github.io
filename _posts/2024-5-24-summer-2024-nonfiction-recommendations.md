@@ -7,7 +7,12 @@ tags:
 - science
 ---
 
+<!--more-->
+
 *How Life Works: A User’s Guide to the New Biology*
+
 by Philip Ball
+
 University of Chicago Press, 2023
-![Cover of How Life Works](uploads/cover-how-life-works.jpg)
+
+<img src="https://tmm.chicagodistributioncenter.com/IsbnImages/9780226826684.jpg" width="200" height="100">
