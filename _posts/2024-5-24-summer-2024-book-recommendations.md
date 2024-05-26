@@ -15,4 +15,4 @@ by Philip Ball (University of Chicago Press, 2023)
 
 ★★★★☆
 
-<img src="https://tmm.chicagodistributioncenter.com/IsbnImages/9780226826684.jpg" width="25" height="50">
+<img src="https://tmm.chicagodistributioncenter.com/IsbnImages/9780226826684.jpg" width="150" height="300">
