@@ -5,10 +5,12 @@ categories:
 - readings
 tags:
 - philosophy of mind
+- papers
 ---
 
 Here are my summaries of and responses to readings in David Chalmers’ anthology
-*Philosophy of Mind: Classical and Contemporary Readings*. I’m reading the book
+*Philosophy of Mind: Classical and Contemporary Readings*. They are gists intended
+only to provide a very brief introduction or a reminder. I’m reading the book
 to become familiar with the field, and this post will serve as a log.
 
 <!--more-->
@@ -75,7 +77,7 @@ to become familiar with the field, and this post will serve as a log.
 
 11. “The Nature of Mental States,” Hilary Putnam
 
-22. “The Many Problems of Mental Causation,” Jaegwon Kim
+22. “The Many Problems of Mental Causation” (excerpt), Jaegwon Kim
 
     Mental causation is important for human agency, knowledge, and psychology.
     Three problems of mental causation:
@@ -101,6 +103,21 @@ to become familiar with the field, and this post will serve as a log.
     work left for *m* to contribute: this is the problem of *causal exclusion* for
     the physicalist who wants to remain a mental realist.
 
+    Finally, Kim puts forward his supervenience argument against mental causation:
+    mental causation is unintelligible no matter whether supervenience stands or
+    falls.
+
+40. “Conscious Experience,” Fred Dretske
+
+    Apparently, according to Dretske, people often have unconscious conscious
+    experiences. This contradiction can be excused as it is an extremely
+    nuanced and difficult-to-pin-down but important point. Consciousness of
+    things (e.g., seeing or hearing that Clyde is playing the piano) contrasts
+    with consciousness of facts (e.g., *that* Clyde is playing the piano), the
+    latter requiring the employment of concepts and is closely bound up with its
+    expressability using language. Dretske says, that someone is consicous *of*
+    something does not imply that she is conscious *that* it.
+
 57. “Anti-Individualism and Privileged Access,” Michael McKinsey
 
     Externalism, as shown by Putnam’s Twin Earth argument, is incompatible with
@@ -108,5 +125,5 @@ to become familiar with the field, and this post will serve as a log.
     Neurocognitive states depend on the subject’s relation to the external world;
     McKinsey interprets this dependence as conceptual implication. Thereofre,
     Oscar’s belief that water is wet cannot be known *a priori*, for that would
-    mean empirical facts would be knowable *a priori* when they are deduced from
+    mean empirical facts would be knowable *a priori* by being deducible from
     the corresponding mental states.
