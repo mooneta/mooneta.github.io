@@ -101,16 +101,6 @@ to become familiar with the field, and this post will serve as a log.
     work left for *m* to contribute: this is the problem of *causal exclusion* for
     the physicalist who wants to remain a mental realist.
 
-    (c)-supervenience: If the mental supervenes on the physical, then when *m*
-    with base *p* causes *m’* with *p’*, there are two possibilities. Either
-    *m’* is caused by *m* (*ex hypothesi*) or is caused by *p’* (by supervenience).
-    The latter must hold, so the former seems superfluous. The only way of
-    reconciliation would be to say that *m* causes *m’* *by* causing *p’*. But *p*
-    also causes *p’* by causing *m*. But this plethora of causes is an
-    overdetermination.
-
-    ![Supervenience causation](../uploads/supervenience-causation.png)
-
 57. “Anti-Individualism and Privileged Access,” Michael McKinsey
 
     Externalism, as shown by Putnam’s Twin Earth argument, is incompatible with
