@@ -105,9 +105,10 @@ to become familiar with the field, and this post will serve as a log.
     with base *p* causes *m’* with *p’*, there are two possibilities. Either
     *m’* is caused by *m* (*ex hypothesi*) or is caused by *p’* (by supervenience).
     The latter must hold, so the former seems superfluous. The only way of
-    reconciliation would be to say that *m* causes *m’* *by* causing *p’*.
+    reconciliation would be to say that *m* causes *m’* *by* causing *p’*. How so?
 
-    <img src="./uploads/supervenience-causation.pdf" width="200">
+
+    <img src="./uploads/supervenience-causation.png" width="200">
 
 57. “Anti-Individualism and Privileged Access,” Michael McKinsey
 
