@@ -79,15 +79,15 @@ to become familiar with the field, and this post will serve as a log.
 
     Three problems of mental causation:
 
-    * Some think that there are no *laws* connecting mental phenomena to mental or
-      physical phenomena. This is a problem for mental causation because of the
-      nomological requirement for causation, i.e., that events standing in causal
-      relation must instantiate causal laws. Solutions question either the
-      lawlessness of the mental or the nomological requirement of causation.
-    * Some think that only the syntactic properties, not the semantic properties,
-      of mental states count in causation. This view results from the view that
-      mental processes are computational processes on internal representations,
-      for which only syntactic properties matter.
+    *  Some think that there are no *laws* connecting mental phenomena to mental or
+       physical phenomena. This is a problem for mental causation because of the
+       nomological requirement for causation, i.e., that events standing in causal
+       relation must instantiate causal laws. Solutions question either the
+       lawlessness of the mental or the nomological requirement of causation.
+    *  Some think that only the syntactic properties, not the semantic properties,
+       of mental states count in causation. This view results from the view that
+       mental processes are computational processes on internal representations,
+       for which only syntactic properties matter.
 
 57. “Anti-Individualism and Privileged Access,” Michael McKinsey
 
