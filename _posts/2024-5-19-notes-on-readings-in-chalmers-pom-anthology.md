@@ -109,7 +109,7 @@ to become familiar with the field, and this post will serve as a log.
     also causes *p’* by causing *m*. But this plethora of causes is an
     overdetermination.
 
-    <img src="../uploads/supervenience-causation.png" width="200">
+    ![Supervenience causation](../uploads/supervenience-causation.png)
 
 57. “Anti-Individualism and Privileged Access,” Michael McKinsey
 
