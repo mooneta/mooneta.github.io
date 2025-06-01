@@ -74,3 +74,23 @@ to become familiar with the field, and this post will serve as a log.
     knowledge of the experiences of others by laws of inference.
 
 11. “The Nature of Mental States,” Hilary Putnam
+
+22. “The Many Problems of Mental Causation,” Jaegwon Kim
+
+    Three problems of mental causation:
+
+    a. Some think that there are no *laws* connecting mental phenomena to mental or
+       physical phenomena. This is a problem for mental causation because of the
+       nomological requirement for causation, i.e., that events standing in causal
+       relation must instantiate causal laws. Solutions question either the
+       lawlessness of the mental or the nomological requirement of causation.
+
+57. “Anti-Individualism and Privileged Access,” Michael McKinsey
+
+    Externalism, as shown by Putnam’s Twin Earth argument, is incompatible with
+    the supposedly privileged access one has about one’s own mental states.
+    Neurocognitive states depend on the subject’s relation to the external world;
+    McKinsey interprets this dependence as conceptual implication. Thereofre,
+    Oscar’s belief that water is wet cannot be known *a priori*, for that would
+    mean empirical facts would be knowable *a priori* when they are deduced from
+    the corresponding mental states.
