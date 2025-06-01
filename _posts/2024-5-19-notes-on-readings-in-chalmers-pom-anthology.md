@@ -77,6 +77,7 @@ to become familiar with the field, and this post will serve as a log.
 
 22. “The Many Problems of Mental Causation,” Jaegwon Kim
 
+    Mental causation is important for human agency, knowledge, and psychology.
     Three problems of mental causation:
 
     (a) Some think that there are no *laws* connecting mental phenomena to mental or
@@ -88,7 +89,25 @@ to become familiar with the field, and this post will serve as a log.
     (b) Some think that only the *syntactic* properties, not the semantic properties,
     of mental states count in causation. This view results from the view that
     mental processes are computational processes on internal representations,
-    for which only syntactic properties matter.
+    for which only syntactic properties matter. Alternatively, Putnam’s Twin
+    Earth argument shows that semantic properties are extrinsic or relational,
+    but we expect that properties with causal power to be non-relational or
+    intrinsic.
+
+    (c) If mental event *m* of kind *M* causes a physical even *p* of kind *P* at
+    time *t*, does *p* also have a physical cause *p’* of kind *N* at *t*? If not,
+    then this is a violation of the causal closure of the physical domain. On the
+    other hand, if there is such a physical cause *p’*, there would be no causal
+    work left for *m* to contribute: this is the problem of *causal exclusion* for
+    the physicalist who wants to remain a mental realist.
+
+    (c)-supervenience: If the mental supervenes on the physical, then when *m*
+    with base *p* causes *m’* with *p’*, there are two possibilities. Either
+    *m’* is caused by *m* (*ex hypothesi*) or is caused by *p’* (by supervenience).
+    The latter must hold, so the former seems superfluous. The only way of
+    reconciliation would be to say that *m* causes *m’* *by* causing *p’*.
+
+    <img src="./uploads/supervenience-causation.pdf" width="200">
 
 57. “Anti-Individualism and Privileged Access,” Michael McKinsey
 
